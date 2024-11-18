@@ -1,0 +1,90 @@
+Prosjekt: [Navn på prosjekt]
+Velkommen til vårt prosjekt! Dette dokumentet beskriver hvordan vi jobber sammen ved hjelp av Git og GitHub, slik at alle følger samme arbeidsflyt.
+
+Hvordan komme i gang
+Klone repository: Hvis du ikke har repositoryet lokalt, klon det ved å kjøre følgende kommando:
+
+bash
+Kopier kode
+git clone <URL>
+Erstatt <URL> med URL-en til dette repositoryet.
+
+Oppdater repositoryet før du begynner å jobbe: Før du starter på noe, sørg for at du har den nyeste versjonen av prosjektet:
+
+bash
+Kopier kode
+git pull origin main
+Arbeidsflyt
+For å unngå konflikter og jobbe effektivt, følger vi denne arbeidsflyten:
+
+Opprett en ny gren: Jobb aldri direkte på main-grenen. Opprett en egen gren for oppgaven din:
+
+bash
+Kopier kode
+git checkout -b <navn-på-gren>
+Eksempel: git checkout -b feature-login
+
+Jobb med koden din: Gjør de nødvendige endringene lokalt.
+
+Lagre og commit endringene: Når du er fornøyd med endringene dine:
+
+bash
+Kopier kode
+git add .
+git commit -m "Kort beskrivelse av hva som er gjort"
+Pushe endringene til GitHub: Last opp grenen din til GitHub:
+
+bash
+Kopier kode
+git push origin <navn-på-gren>
+Opprett en Pull Request (PR):
+
+Gå til repositoryet på GitHub.
+Klikk på "Pull Requests" og opprett en ny PR fra grenen din.
+Be en av de andre på teamet om å gjennomgå PR-en din.
+Flette grenen din: Når PR-en er godkjent, flett den inn i main. Dette gjøres på GitHub.
+
+Hente oppdateringer
+Hvis noen har gjort endringer på main, sørg for at du oppdaterer din lokale versjon før du fortsetter:
+
+Gå til main-grenen:
+
+bash
+Kopier kode
+git checkout main
+Hent de nyeste endringene:
+
+bash
+Kopier kode
+git pull origin main
+Oppdater din egen gren med de nyeste endringene:
+
+bash
+Kopier kode
+git checkout <din-gren>
+git merge main
+Håndtering av konflikter
+Hvis Git oppdager konflikter når du prøver å merge, vil du få beskjed om hvilke filer som har konflikter. Følg disse trinnene for å løse dem:
+
+Åpne filene som har konflikter, og se etter markeringer som dette:
+css
+Kopier kode
+<<<<<<< HEAD
+[din kode]
+=======
+[annen kode]
+>>>>>>> main
+Velg hvilken kode som skal beholdes eller kombiner dem.
+Etter å ha løst alle konflikter, lagrer du filene og kjører:
+bash
+Kopier kode
+git add .
+git commit -m "Løst konflikter"
+Gode vaner
+Oppdater alltid main før du begynner på noe nytt.
+Lag en ny gren for hver oppgave.
+Skriv meningsfulle commit-meldinger.
+Gjennomgå alltid Pull Requests nøye før de flettes.
+Trenger du hjelp?
+Ta kontakt med [Navn på ansvarlig] hvis du støter på problemer eller har spørsmål.
+
