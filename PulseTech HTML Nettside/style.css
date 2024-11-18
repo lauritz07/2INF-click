@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC&family=Noto+Sans:wght@300&display=swap');
+
+* {
+    box-sizing: border-box;
+    font-family: Noto Sans;
+    color: #282828;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.nav ul {
+    margin: 0;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: white; 
+    text-decoration: none;
+}
+
+.main-nav {
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 2.5px solid rgba(255, 255, 255, .7);
+}
+
+.main-nav li {
+    padding: 0 3%;
+}
+
+.nav a:hover {
+    background-color: rgba(255, 255, 255, .3);
+}
+
+.main-header {
+    background-color: rgba(255, 0, 0, 0.6);
+    background-image: url(bilder/MAIN\ BANNER\ 1920\ X\ 500.jpg);
+    background-blend-mode: multiply;
+    background-size: cover;
+}
+
+.bedrift-navn-stor {
+    text-align: center;
+    margin: 0;
+    font-size: 4em;
+    font-family: Alegreya Sans SC;
+    color: rgb(255, 255, 255);
+}
+
+.bedrift-navn {
+    text-align: left;
+    margin: 0;
+    font-size: 2em;
+    font-family: Alegreya Sans SC;
+    color: rgb(255, 255, 255);
+}
+
+.content-section {
+    margin: 1em;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 1.5em;
+}
+
+.butikk-bilde {
+    height: 400px;
+    width: 400px;
+    margin: 16px;
+    border-radius: 50%;
+}
+
+.main-footer {
+    background-color: rgba(255, 0, 0, 0.6);
+    background-blend-mode: multiply;
+    background-image: url(bilder/MAIN\ BANNER\ 1920\ X\ 500.jpg);
+    color: white;
+    padding: .25em 0;
+}
+
+.main-footer-container {
+    display: flex;
+    align-items: center;
+}
+
+.main-footer-container ul {
+    flex-grow: 1;
+    text-align: end;
+}
+
+.footer-nav li {
+    padding: 0 .5em;
+}
+
+.kontakt-icon1 {
+    width: 30px;
+    height: 30px;
+}
+
+.kontakt-icon2 {
+    width: 40px;
+    height: 33px;
+}
