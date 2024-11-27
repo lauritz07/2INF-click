@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Exclusive Webshop</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+
+  <header>
+    <div class="container">
+      <div class="logo">Click</div>
+      <nav>
+        <ul>
+          <li><a href="Click.html">Home</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="LogIN.html">Sign Up</a></li>
+        </ul>
+      </nav>
+      <div class="search-cart">
+        <input type="text" placeholder="What are you looking for?">
+        <div class="icons">
+          <li><a href="shopping-cart.html">🛒</a></li>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <div class="banner">
+      <div class="carousel">
+        <div class="carousel-images">
+          <img src="Sliders/slidercb.png" alt="Image 1">
+          <img src="Sliders/sliderds.png" alt="Image 2">
+          <img src="Sliders/slideroc.png" alt="Image 3">
+          <img src="Sliders/sliderpb.png" alt="Image 4">
+        </div>
+      </div>
+      <!-- Dots Navigation -->
+      <div class="dots-container">
+        <!-- Dots will be generated dynamically -->
+      </div>
+    </div>      
+    <section class="products">
+      <h2>PRODUKTER</h2>
+      <div class="product-grid" id="productGrid">
+        <!-- Produkter vil bli lastet inn her -->
+      </div>
+    </section>
+  </main>
+
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      fetch('http://193.213.190.218:35212/products')
+        .then(response => response.json())
+        .then(data => {
+          const productGrid = document.getElementById('productGrid');
+          productGrid.innerHTML = '';
+          data.forEach(product => {
+            const productCard = document.createElement('div');
+            productCard.className = 'product-card';
+            productCard.innerHTML = `
+              <div class="imgbox">
+                <img src="${product.image_url}" alt="Product Image">
+              </div>
+              <div class="details">
+                <h2>${product.product_name}<br><span>${product.description}</span></h2>
+                <div class="price">NOK ${product.price}</div>
+              </div>
+              <button onclick="addToCart(${product.id}, '${product.product_name}', ${product.price}, '${product.image_url}', 1)" class="add-to-cart">Add To Cart</button>
+            `;
+            productGrid.appendChild(productCard);
+          });
+        })
+        .catch(error => console.error('Error fetching products:', error));
+    });
+
+    function addToCart(productId, name, price, image, quantity) {
+      let cart = JSON.parse(localStorage.getItem('cart')) || [];
+      const existingItem = cart.find(item => item.id === productId);
+      if (existingItem) {
+        existingItem.quantity += quantity;
+      } else {
+        cart.push({ id: productId, name: name, price: price, image: image, quantity: quantity });
+      }
+      localStorage.setItem('cart', JSON.stringify(cart));
+      alert('Product added to cart');
+    }
+  </script>
+</body>
+</html>
