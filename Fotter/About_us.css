@@ -1,0 +1,40 @@
+*{
+    margin:0;
+    padding: 15px;
+    font-family: sans-serif;
+    box-sizing: border-box;
+}
+
+.About-Us {
+    width: 100%;
+    padding: 78px 0px;
+}
+
+.About-Us-Text {
+    height: auto;
+    width: 450px;
+}
+
+.About-Us-Page {
+    width: 1130px;
+    max-width: 95%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.About-Us-Text h2 {
+    Color: #000000;
+    font-size: 80px;
+    text-transform: capitalize;
+    margin: bottom;
+}
+
+
+.About-Us-Text p {
+    color: #000000;
+    letter-spacing: 1px;
+    line-height: 28px;
+    margin-bottom: 45px;
+}
