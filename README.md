@@ -14,9 +14,7 @@
 <p align="center">
 
 <img src="https://i.postimg.cc/Z5q6LSjx/screencapture-193-213-190-218-32768-2025-01-21-12-50-47.png" alt="Home side" width="400px">
-
 <img src="https://i.postimg.cc/W4BrjJV5/screencapture-193-213-190-218-32768-Log-INN-html-2025-01-21-12-52-36.png" alt="Log inn side" width="400px">
-
 <img src="https://i.postimg.cc/05dmRQBC/screencapture-193-213-190-218-32768-shopping-cart-html-2025-01-21-12-53-40.png" alt="Handlekurv " width="400px">
 </p>
 
@@ -34,7 +32,7 @@
 <tr>
 
 <td align="center">
-<a href="">
+<a href="https://github.com/on200w">
 <img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Henrik Profile Picture"/><br>
 <sub>
 <b>Henrik</b>
@@ -43,7 +41,7 @@
 </td>
 
 <td align="center">
-<a href="">
+<a href="https://github.com/lauritz07">
 <img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Lauritz  Profile Picture"/><br>
 <sub>
 <b>Lauritz </b>
