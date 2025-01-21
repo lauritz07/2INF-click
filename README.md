@@ -26,6 +26,7 @@
 - Node.js
 - Figma
 - MySQL
+- Visual studio code
 
 <h2 id="colab">🤝 Collaborators</h2>
 
