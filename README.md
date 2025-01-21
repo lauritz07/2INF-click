@@ -20,10 +20,12 @@
 
 <h2 id="technologies">💻 Technologies</h2>
 
-- HTML og CSS
+- HTML 
+- CSS
 - Javascript
 - Node.js
 - Figma
+- MySQL
 
 <h2 id="colab">🤝 Collaborators</h2>
 
