@@ -27,7 +27,7 @@
 
 <h2 id="colab">🤝 Collaborators</h2>
 
-<p>Denne oppgaven er utført av 2INF-teamet som del av vårt felles prosjekt. Nedenfor er en liste over alle som har bidratt til prosjektet</p>
+<p>Denne oppgaven er utført av 2INF-teamet. Nedenfor er en liste over alle som har bidratt til prosjektet</p>
 <table>
 <tr>
 
