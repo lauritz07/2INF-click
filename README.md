@@ -36,7 +36,7 @@
 
 <td align="center">
 <a href="https://github.com/on200w">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Henrik Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Henrik Profile Picture"/><br>
 <sub>
 <b>Henrik</b>
 </sub>
@@ -45,7 +45,7 @@
 
 <td align="center">
 <a href="https://github.com/lauritz07">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Lauritz  Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Lauritz  Profile Picture"/><br>
 <sub>
 <b>Lauritz </b>
 </sub>
@@ -54,7 +54,7 @@
 
 <td align="center">
 <a href="https://github.com/Helios20pog">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Theodor  Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Theodor  Profile Picture"/><br>
 <sub>
 <b>Theodor </b>
 </sub>
@@ -63,7 +63,7 @@
 
 <td align="center">
 <a href="https://github.com/AliOfcourse">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Asghar Ali Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Asghar Ali Profile Picture"/><br>
 <sub>
 <b>Asghar Ali</b>
 </sub>
@@ -72,7 +72,7 @@
 
 <td align="center">
 <a href="https://github.com/Moaninghamster0">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Rimantas  Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Rimantas  Profile Picture"/><br>
 <sub>
 <b>Rimantas </b>
 </sub>
@@ -81,7 +81,7 @@
 
 <td align="center">
 <a href="">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Vilde Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Vilde Profile Picture"/><br>
 <sub>
 <b>Vilde</b>
 </sub>
@@ -90,7 +90,7 @@
 
 <td align="center">
 <a href="https://github.com/JojoChad">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Hadrian Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Hadrian Profile Picture"/><br>
 <sub>
 <b>Hadrian</b>
 </sub>
@@ -99,7 +99,7 @@
 
 <td align="center">
 <a href="">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Santina  Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Santina  Profile Picture"/><br>
 <sub>
 <b>Santina </b>
 </sub>
@@ -108,7 +108,7 @@
 
 <td align="center">
 <a href="">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Aurora  Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Aurora  Profile Picture"/><br>
 <sub>
 <b>Aurora </b>
 </sub>
@@ -117,7 +117,7 @@
 
 <td align="center">
 <a href="">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Kachasit Profile Picture"/><br>
+<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Kachasit Profile Picture"/><br>
 <sub>
 <b>Kachasit</b>
 </sub>
