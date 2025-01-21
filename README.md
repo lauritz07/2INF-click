@@ -36,7 +36,7 @@
 
 <td align="center">
 <a href="https://github.com/on200w">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Henrik Profile Picture"/><br>
+<img src="https://avatars.githubusercontent.com/u/188188708?v=4" width="150px;" alt="Henrik Profile Picture"/><br>
 <sub>
 <b>Henrik</b>
 </sub>
