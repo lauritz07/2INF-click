@@ -50,7 +50,7 @@
 </td>
 
 <td align="center">
-<a href="">
+<a href="https://github.com/Helios20pog">
 <img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Theodor  Profile Picture"/><br>
 <sub>
 <b>Theodor </b>
@@ -68,7 +68,7 @@
 </td>
 
 <td align="center">
-<a href="">
+<a href="https://github.com/Moaninghamster0">
 <img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Rimantas  Profile Picture"/><br>
 <sub>
 <b>Rimantas </b>
@@ -86,7 +86,7 @@
 </td>
 
 <td align="center">
-<a href="">
+<a href="https://github.com/JojoChad">
 <img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="100px;" alt="Hadrian Profile Picture"/><br>
 <sub>
 <b>Hadrian</b>
