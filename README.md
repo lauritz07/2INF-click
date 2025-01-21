@@ -45,7 +45,7 @@
 
 <td align="center">
 <a href="https://github.com/lauritz07">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Lauritz  Profile Picture"/><br>
+<img src="https://avatars.githubusercontent.com/u/188495490?v=4" width="150px;" alt="Lauritz  Profile Picture"/><br>
 <sub>
 <b>Lauritz </b>
 </sub>
@@ -54,7 +54,7 @@
 
 <td align="center">
 <a href="https://github.com/Helios20pog">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Theodor  Profile Picture"/><br>
+<img src="https://avatars.githubusercontent.com/u/188868266?v=4" width="150px;" alt="Theodor  Profile Picture"/><br>
 <sub>
 <b>Theodor </b>
 </sub>
@@ -63,7 +63,7 @@
 
 <td align="center">
 <a href="https://github.com/AliOfcourse">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Asghar Ali Profile Picture"/><br>
+<img src="https://avatars.githubusercontent.com/u/189606685?v=4" width="150px;" alt="Asghar Ali Profile Picture"/><br>
 <sub>
 <b>Asghar Ali</b>
 </sub>
@@ -72,7 +72,7 @@
 
 <td align="center">
 <a href="https://github.com/Moaninghamster0">
-<img src="https://i.postimg.cc/W4gzGYR7/Default-pfp.jpg" width="150px;" alt="Rimantas  Profile Picture"/><br>
+<img src="https://avatars.githubusercontent.com/u/189002907?v=4" width="150px;" alt="Rimantas  Profile Picture"/><br>
 <sub>
 <b>Rimantas </b>
 </sub>
