@@ -18,7 +18,7 @@
 <img src="https://i.postimg.cc/05dmRQBC/screencapture-193-213-190-218-32768-shopping-cart-html-2025-01-21-12-53-40.png" alt="Handlekurv " width="400px">
 </p>
 
-<h2 id="technologies">💻 Programmes and programming languages</h2>
+<h2 id="technologies">💻 Programs and programming languages</h2>
 
 - HTML 
 - CSS
