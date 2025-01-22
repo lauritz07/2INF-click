@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shopping Cart</title>
+  <link rel="stylesheet" href="shopping.css">
+</head>
+<body>
+  <!-- Header Section -->
+  <header>
+    <div class="container">
+      <div class="logo">
+        <img src="Images/click.png">
+      </div>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="#">Contact</a></li>
+          <li><a href="#">About</a></li>
+          <li><a href="LogINN.html">Sign Up</a></li>
+        </ul>
+      </nav>
+      <div class="search-cart">
+        <input type="text" placeholder="What are you looking for?">
+        <div class="icons">
+          <li><a href="shopping-cart.html">🛒</a></li>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main>
+    <section class="cart-container">
+      <!-- Cart Items Section -->
+      <div class="cart-items" id="cartItems">
+        <!-- Cart items will be dynamically inserted here -->
+      </div>
+      <button class="return-button" onclick="window.location.href='index.html'">Return To Shop</button>
+      <!-- Cart Summary Section -->
+      <div class="cart-summary">
+        <h2>Cart Total</h2>
+        <p>Subtotal: <span class="cart-subtotal">NOK 0</span></p>
+        <p>Shipping: <span class="cart-shipping">Free</span></p>
+        <p>Total: <span class="cart-total">NOK 0</span></p>
+        <button class="checkout-button">Proceed to checkout</button>
+      </div>
+    </section>
+  </main>
+
+  <!-- JavaScript to handle cart functionality -->
+  <script src="/config/cart.js"></script>
+</body>
+</html>
